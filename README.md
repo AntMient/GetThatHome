@@ -1,7 +1,7 @@
 # React + Vite
 ![image](https://github.com/AntMient/GetThatHome/assets/102553238/1eb40846-7958-4801-9b1d-30c57a8510cb)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was developed with react + vite for the frontend and ruby ​​on rail for the backend.
 
 Currently, two official plugins are available:
 
